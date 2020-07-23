@@ -1,0 +1,8 @@
+#users {
+  list-style: none;
+}
+
+#users li {
+  font-size: 20px;
+  cursor: pointer;
+}
